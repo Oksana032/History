@@ -1,0 +1,25 @@
+body{
+   background: url(3.jpg) ; 
+}
+p{
+    width: 700px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h2{
+    color: rgb(6, 6, 105);
+}
+.photo1{
+    display: flex;
+    margin-top: -670px;
+    margin-left: 700px;
+    width: 450px;
+}
+.photo2{
+
+    margin-top: 0px;
+    margin-left: 700px;
+    width: 450px;
+}
